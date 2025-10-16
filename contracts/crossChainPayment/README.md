@@ -12,3 +12,5 @@ To learn more about running the example, look at the `scripts/crossChainPayment`
 
 - `NFT.sol:MyNFT`: is the NFT contract that is minted on a payment
 - `Minter.sol:NFTMinter`: is the contract that accepts a proof of payment, and mints the NFT
+
+<!-- Auto-update: 2025-10-16T09:19:03.816851 -->
